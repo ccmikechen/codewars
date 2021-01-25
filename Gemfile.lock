@@ -1,0 +1,18 @@
+GIT
+  remote: https://github.com/ccmikechen/ruby-test-framework
+  revision: 1194afeceaf0285a537d84e2bdc666211d26cb81
+  specs:
+    codewars_test (0.0.1)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  codewars_test!
+
+BUNDLED WITH
+   2.1.4
